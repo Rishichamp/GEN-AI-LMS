@@ -5,7 +5,7 @@ A personal learning management system for the GenAI Ninja Builder Program.
 ## Live site
 
 Hosted on GitHub Pages:  
-`https://<your-github-username>.github.io/genai-ninja-lms/`
+`https://rishichamp.github.io/GEN-AI-LMS/`
 
 ## Setup (5 minutes)
 
