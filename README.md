@@ -72,3 +72,7 @@ Progress is stored in **browser localStorage** — it survives page refreshes au
 | Storage | Browser localStorage |
 | AI | Anthropic Claude API (claude-sonnet-4-6) |
 | Hosting | GitHub Pages (static) |
+
+## Author
+
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
